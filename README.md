@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Bruno Mota - Desenvolvedor</h1>
 
-<!--
-**bmotadev/bmotadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img style="width: 360px" align="right" src="https://github.com/brunofrontend/brunofrontend/blob/main/assets/octocat-1675316934262.png" alt="octocat">
+<p align="center">
+    <a href="https://www.linkedin.com/in/brunomotadev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="justify"><em>Realizei estágio como <b>Desenvolvedor Front-End</b> com as tecnologias <b>Wordpress</b>, <b>HTML</b>, <b>CSS</b>, <b>Bootstrap</b> e <b>jQuery</b>. E tinha contato com outras tecnologias como: <b>Angular</b>, <b>JavaScript</b>, <b>TypeScript</b> e <b>Node.js</b>.</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="justify"><em>Atuei como <b>Desenvolvedor Fullstack</b> na CoreBiz. Desenvolvendo aplicações voltadas ao e-commerce com as tecnologias <b>PHP</b>, <b>Laravel</b>, <b>Vue.js</b>, <b>MySQL</b>, <b>VTEX</b> e <b>Docker</b>. E atuei na Topaz com Desenvolvimento de Produtos Bancários utilizando linguagem 4GL e SQL.</em></p>
+
+<p align="justify"><i>Possuo mais de 3 anos de experiência com o atendimento ao cliente (telemarketing receptivo), com produtos de consórcio, internet, bancos, seguros, telefone e computadores. Nas áreas de SAC, Backoffice, Suporte Técnico, Auditoria e Cobrança.</i></p>
+
+<p align="center"><img src="https://img.shields.io/badge/HTML5-gray?style=plastic&logo=html5"> <img src="https://img.shields.io/badge/CSS3-gray?style=plastic&logo=css3"> <img src="https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript"> <img src="https://img.shields.io/badge/TypeScript-gray?style=plastic&logo=typescript"> <img src="https://img.shields.io/badge/Angular-gray?style=plastic&logo=angular"> <img src="https://img.shields.io/badge/Bootstrap-gray?style=plastic&logo=bootstrap"> <img src="https://img.shields.io/badge/TailwindCSS-gray?style=plastic&logo=tailwindcss"></p>
