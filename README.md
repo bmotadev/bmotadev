@@ -1,6 +1,6 @@
 <h1 align="center">Bruno Mota - Desenvolvedor</h1>
 
-<img style="width: 360px" align="right" src="https://github.com/brunofrontend/brunofrontend/blob/main/assets/octocat-1675316934262.png" alt="octocat">
+<img style="width: 360px" align="right" src="https://github.com/bmotadev/bmotadev/blob/main/assets/octocat-1675316934262.png" alt="octocat">
 <p align="center">
     <a href="https://www.linkedin.com/in/brunomotadev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin"></a>
 </p>
