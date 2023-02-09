@@ -1,4 +1,4 @@
-<h1 align="center">Bruno Mota - Desenvolvedor</h1>
+<h1 align="center">Bruno Mota - Software Developer</h1>
 
 <img style="width: 360px" align="right" src="https://github.com/bmotadev/bmotadev/blob/main/assets/octocat-1675316934262.png" alt="octocat">
 <p align="center">
@@ -11,4 +11,4 @@
 
 <p align="justify"><i>Possuo mais de 3 anos de experiência com o atendimento ao cliente (telemarketing receptivo), com produtos de consórcio, internet, bancos, seguros, telefone e computadores. Nas áreas de SAC, Backoffice, Suporte Técnico, Auditoria e Cobrança.</i></p>
 
-<p align="center"><img src="https://img.shields.io/badge/HTML5-gray?style=plastic&logo=html5"> <img src="https://img.shields.io/badge/CSS3-gray?style=plastic&logo=css3"> <img src="https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript"> <img src="https://img.shields.io/badge/TypeScript-gray?style=plastic&logo=typescript"> <img src="https://img.shields.io/badge/Angular-gray?style=plastic&logo=angular"> <img src="https://img.shields.io/badge/Bootstrap-gray?style=plastic&logo=bootstrap"> <img src="https://img.shields.io/badge/TailwindCSS-gray?style=plastic&logo=tailwindcss"></p>
+<p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white"> <img src=""> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white"></p>
