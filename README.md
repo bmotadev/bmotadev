@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/bmotadev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin"></a>
 </p>
 
-<p align="justify"><em>Formado em análise e desenvolvimento de sistemas na UNINOVE, já atuei como desenvolvedor front-end e back-end. Trabalhando com as seguintes tecnologias: <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>WordPress</b>, <b>PHP</b>, <b>Laravel</b>, <b>Vue.js</b>, <b>MySQL</b>, <b>VTEX</b> e <b>Docker</b></em></p>
+<p align="justify"><em>Formado em análise e desenvolvimento de sistemas na UNINOVE, já atuei como desenvolvedor front-end e back-end. E trabalhei com as seguintes tecnologias: <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>WordPress</b>, <b>PHP</b>, <b>Laravel</b>, <b>Vue.js</b>, <b>MySQL</b>, <b>VTEX</b> e <b>Docker</b></em></p>
 
 <p align="justify"><em>Apaixonado por resolver problemas, e desenvolver soluções. Utilizo a tecnologia como ferramenta para realizar objetivos. E tornar o mundo, um lugar melhor para todos.</em></p>
 
