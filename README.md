@@ -1,4 +1,4 @@
-<h1 align="center">Bruno Mota - Mobile Developer</h1>
+<h1 align="center">Bruno Mota</h1>
 
 
 <img style="width: 360px" align="right" src="https://github.com/bmotadev/bmotadev/blob/main/assets/octocat-1675316934262.png" alt="octocat">
@@ -12,4 +12,4 @@
 
 <p align="justify"><i>Possuo mais de 3 anos de experiência com o atendimento ao cliente (telemarketing receptivo), com produtos de consórcio, internet, bancos, seguros, telefone e computadores. Nas áreas de SAC, Backoffice, Suporte Técnico, Auditoria e Cobrança.</i></p>
 
-<p align="center"><img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white"> <img src=https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black> <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white"></p>
+<p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"> <img src=https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB"></p>
