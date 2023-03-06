@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/bmotadev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin"></a>
 </p>
 
-<p align="center">Desenvolvedor desenvolvedor de software com experiência em desenvolvimento front-end e back-end. Trabalhando com as tecnologias: <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>WordPress</b>, <b>PHP</b>, <b>Laravel</b>, <b>Vue.js</b>, <b>MySQL</b>, <b>VTEX</b> e <b>Docker</b></p>
+<p align="center">Desenvolvedor de software com experiência em desenvolvimento front-end e back-end. Trabalhando com as tecnologias: <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>WordPress</b>, <b>PHP</b>, <b>Laravel</b>, <b>Vue.js</b>, <b>MySQL</b>, <b>VTEX</b> e <b>Docker</b></p>
 
 <p align="center"><em>Atualmente me especializando em desenvolvimento mobile com Flutter</em></p>
 
