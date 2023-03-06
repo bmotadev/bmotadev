@@ -1,7 +1,7 @@
 <h1 align="center">Bruno Mota</h1>
 
 
-<img style="width: 300px" align="right" src="assets/codegray.png" alt="octocat">
+<img style="width: 260px" align="right" src="assets/codegray.png" alt="octocat">
 <p align="center">
     <a href="https://www.linkedin.com/in/bmotadev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin"></a>
 </p>
