@@ -1,5 +1,3 @@
-<h1 align="center">Bruno Mota</h1>
-
 
 <img style="width: 200px" align="right" src="assets/codegray.png" alt="octocat">
 <p align="center">
